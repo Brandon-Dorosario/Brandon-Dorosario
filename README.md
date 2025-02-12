@@ -12,7 +12,12 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="center" alt="Brandon | LinkedIn" width="22px" src="https://www.linkedin.com/in/brandon-do-2112721a3/" />][linkedin]
+
+<a href="https://www.linkedin.com/in/brandon-do-2112721a3/">
+  <img src="https://github.com/user-attachments/assets/56b286cd-9c56-4b66-a044-4effb50a0db6" alt="Brandon | LinkedIn" width="30"/>
+</a>
 
 
-[linkedin]: [https://www.linkedin.com/in/brandon-do-2112721a3/]
+
+[linkedin]: https://www.linkedin.com/in/brandon-do-2112721a3/
+
